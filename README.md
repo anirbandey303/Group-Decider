@@ -1,4 +1,5 @@
 # Group-Decider
 A simple C++ program to decide which group the user is assigned to.
-	Download the Source Code
-	Compile and Run!
+	>>Download the Source Code
+	>>Compile using g++ (linux) or DevC++(Windows) Compiler.
+	>>Execude
